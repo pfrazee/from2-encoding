@@ -1,0 +1,30 @@
+{
+  "name": "from2-encoding",
+  "version": "1.0.0",
+  "description": "Create a stream from a string or buffer, with an encoding parameter for converting strings to buffers.",
+  "main": "index.js",
+  "dependencies": {
+    "from2": "^2.3.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfrazee/from2-encoding.git"
+  },
+  "keywords": [
+    "from",
+    "from2",
+    "stream"
+  ],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfrazee/from2-encoding/issues"
+  },
+  "homepage": "https://github.com/pfrazee/from2-encoding#readme"
+}
